@@ -1,9 +1,9 @@
-(https://scontent.fdac147-1.fna.fbcdn.net/v/t39.30808-6/406262249_1558764384860599_2384703215388879337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE2jsTVgGyPm91ouglVXZU4cQPC9kTdm8RxA8L2RN2bxNEDKYPtWby26AAnuD7DEvFlMtB5mBm9No5FQJvegz-X&_nc_ohc=eIj085vZ_QkQ7kNvgHa0ao-&_nc_zt=23&_nc_ht=scontent.fdac147-1.fna&_nc_gid=AMca9I148hhSQUC3ZDiTYlQ&oh=00_AYBBMlxxeuFqIeM3u7oADbuT7nPzLyMXR6R7aKLhKPouoQ&oe=676E5046)
 
 
 ### Hi there 👋, I am MD SHAFIUL ALAM SAGAR
 #### Machine Learning Engineer | Web Developer
-![Machine Learning Engineer | Web Developer]
+![Machine Learning Engineer | Web Developer](https://scontent.fdac147-1.fna.fbcdn.net/v/t39.30808-6/406262249_1558764384860599_2384703215388879337_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE2jsTVgGyPm91ouglVXZU4cQPC9kTdm8RxA8L2RN2bxNEDKYPtWby26AAnuD7DEvFlMtB5mBm9No5FQJvegz-X&_nc_ohc=eIj085vZ_QkQ7kNvgHa0ao-&_nc_zt=23&_nc_ht=scontent.fdac147-1.fna&_nc_gid=AMca9I148hhSQUC3ZDiTYlQ&oh=00_AYBBMlxxeuFqIeM3u7oADbuT7nPzLyMXR6R7aKLhKPouoQ&oe=676E5046)
+
 
  I am passionate about Web development and Machine Leaning. I aspire to become a skilled programmer. I am currently honing my skills in Machine Learning and Web development to make a meaningful impact in the tech industry.
 
