@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Sagar
 
-<!--
-**mdshafiulalamsagar/mdshafiulalamsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Golang Enthusiast | System Design Learner**
 
-Here are some ideas to get you started:
+I love building things from scratch to understand how they work under the hood. Currently, I am exploring the depths of backend engineering and database systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on **goredis** - an in-memory key-value database built from scratch in Go.
+- I’m currently learning **Advanced Go Concurrency** and **Distributed Systems**.
+- Ask me about **Go, Backend Architecture, or Databases**.
+- How to reach me: [LinkedIn](https://linkedin.com/in/mdshafiulalamsagar) | [Email](mailto:m.shafiulalamsagar@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshafiulalamsagar&show_icons=true&theme=radical)
